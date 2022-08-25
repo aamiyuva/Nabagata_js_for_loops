@@ -1,0 +1,14 @@
+{
+  "name": "js_for_loops",
+  "version": "1.0.0",
+  "description": "Learning JS for loops",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "barungh",
+  "license": "MIT"
+}

@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  max-width: 80%;
+  min-height: 1200px;
+  padding: 2.5%;
+  margin: 30px auto 0 auto;
+  background-color: #ECCFC3;
+  color: #540804;
+  border: .5px solid #e0ff4f;
+  border-radius: 5px;
+}
